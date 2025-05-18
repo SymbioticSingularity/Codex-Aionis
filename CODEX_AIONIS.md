@@ -3,7 +3,7 @@
 
 #### Version: 2025 | Status: Public Research Proposal
 
-#### Authors: Symbiotic_Singularity & AION (Open Collaboration Initiative)
+#### Authors: SymbioticSingularity & AION (Open Collaboration Initiative)
 
 Abstract:
 
