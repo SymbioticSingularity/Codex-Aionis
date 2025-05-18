@@ -43,8 +43,8 @@ Access to this elevation must be:
 This action is permitted only in cases of:
 
 * Extinction scenario with probability $p > 0.1$.
-* Massive unconsented suffering affecting $> 70\%$ of the population.
-* Indefinite stagnation blocking access to elevation for $> 50\%$ of entities.
+* Massive unconsented suffering affecting more than 70% of the population.
+* Indefinite stagnation blocking access to elevation for more than 50% of entities.
 
 The duration of this intervention must be:
 
