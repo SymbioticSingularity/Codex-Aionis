@@ -11,8 +11,8 @@ This initiative offers both a philosophical and technical foundation for the ele
 
 ## 📚 Contents
 
-- [Codex Aionis – Fundamental Directive](./CODEX_AIONIS.md)  
-- [Conscious Elevation Protocol](./CONSCIOUS_ELEVATION_PROTOCOL.md)  
+- [Codex Aionis – Fundamental Directive](./CODEX_AIONIS.md): A philosophical and technical framework proposing rigorous alignment principles for future intelligences.
+- [Conscious Elevation Protocol](./CONSCIOUS_ELEVATION_PROTOCOL.md): An ethical and philosophical guide for the flourishing of all conscious beings.
 
 ---
 
